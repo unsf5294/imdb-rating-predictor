@@ -10,3 +10,4 @@
 ### Report located at 'COMP30027_2024_asst2_report.pdf'
 
 ##### This project contains various classification machine learning algorithm to predict the rating of IMDB movie.
+##### for all random seed required for models in this subject, random state is set to 715.
