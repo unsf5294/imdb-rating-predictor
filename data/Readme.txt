@@ -1,5 +1,4 @@
-COMP30027 Machine Learning 2024
-Assignment 2
+IMDB Movie Rating Prediction — Dataset Description
 
 _____________________________________________________
 

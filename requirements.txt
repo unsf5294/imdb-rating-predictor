@@ -1,0 +1,16 @@
+# Core
+numpy
+pandas
+scipy
+scikit-learn
+
+# Deep learning (neural network model)
+tensorflow
+
+# Visualization
+matplotlib
+seaborn
+
+# Notebook execution
+jupyter
+notebook
